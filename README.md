@@ -21,5 +21,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imdaano&theme=nightowl&border=50d461&background=2d333a&show_icons=true&locale=en&layout=compact" alt="imdaano" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imdaano&theme=nightowl&border=50d461&background=2d333a&show_icons=true&locale=en&layout=compact" alt="imdaano" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imdaano&theme=nightowl&border=50d461&background=2d333a&show_icons=true" alt="imdaano" /></p>
 
