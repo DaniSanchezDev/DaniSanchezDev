@@ -1,3 +1,4 @@
+[![wakatime](https://wakatime.com/badge/user/018e1386-2268-439e-995a-f561048ea85c.svg)](https://wakatime.com/@018e1386-2268-439e-995a-f561048ea85c)
 <h1 align="center">Bienvenid@👋, soy Daniel Sánchez</h1>
 <h3 align="center">Un apasionado desarrollador Full Stack de A Coruña, España</h3>
 <br>
