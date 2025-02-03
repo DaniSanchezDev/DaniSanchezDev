@@ -5,7 +5,7 @@
 
 - 🌱 Actualmente estoy estudiando **un FP Superior de Desarrollo Web. Tecnologías como HTML & CSS, JavaScript, React, Java, Spring, Angular, PHP, SQL**
 
-- 💬 Puedes preguntarme sobre **ReactJs, Angular, Java, JavaScript y Node**
+- 💬 Interesado en aprender y mejorar en React, Inteligencia Artificial, Springboot**
 
 - 📫 Como contactarme? **danielsanchezvazquez5@gmail.com**
 <br>
