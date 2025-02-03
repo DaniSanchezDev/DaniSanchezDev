@@ -48,10 +48,6 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40" />
   </a>
-  <a href="https://symfony.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original-wordmark.svg" alt="symfony" width="40" height="40" />
-  </a>
-
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="postman" width="40" height="40" />
   </a>
@@ -72,5 +68,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DaniSanchezDev&theme=nightowl&border=50d461&background=2d333a&show_icons=true&locale=en&layout=compact" alt="DaniSanchezDev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DaniSanchezDev&theme=nightowl&border=ffffff&background=011627&show_icons=true" alt="DaniSanchezDev" /></p>
 
