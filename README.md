@@ -3,7 +3,7 @@
 <h3 align="center">Un apasionado desarrollador Full Stack de A Coruña, España</h3>
 <br>
 
-- 🌱 Actualmente estoy estudiando **un FP Superior de Desarrollo Web. Tecnologías como Java, HTML & CSS, JavaScript, Angular, React, SQL y Astro**
+- 🌱 Actualmente estoy estudiando **un FP Superior de Desarrollo Web. Tecnologías como HTML & CSS, JavaScript, React, Java, Spring, Angular, PHP, SQL
 
 - 💬 Puedes preguntarme sobre **ReactJs, Angular, Java, JavaScript y Node**
 
