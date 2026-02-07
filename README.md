@@ -1,17 +1,18 @@
 [![wakatime](https://wakatime.com/badge/user/018e1386-2268-439e-995a-f561048ea85c.svg)](https://wakatime.com/@018e1386-2268-439e-995a-f561048ea85c)
-<h1 align="center">Bienvenid@👋, soy Daniel Sánchez</h1>
-<h3 align="center">Un apasionado desarrollador Full Stack de A Coruña, España</h3>
-<br>
-
-- 🌱 **Actualmente aprendiendo**: React, Inteligencia Artificial, Springboot
-- 💬 **Enfocado en mejorar**: Desarrollo Full Stack, Optimización de rendimiento web
-- 📚 **Tecnologías que uso**: HTML, CSS, JavaScript, React, Java, Spring, Node.js, Angular, SQL
+<h1 align="center">👋 ¡Hola! Soy Daniel Sánchez</h1>
+<h3 align="center">Desarrollador Frontend especializado en React desde A Coruña, España</h3>
 
 <br>
 
-- 🔗 **Conéctame en LinkedIn**: [Daniel Sánchez](https://linkedin.com/in/daniel-sanchez-vazquez)
+- 🚀 **Enfocado en**: Desarrollo Frontend moderno, interfaces limpias y componentes reutilizables
+- 🌱 **Actualmente aprendiendo**: React avanzado, TypeScript, optimización de rendimiento web
+- 🎯 **Mejorando constantemente**: Buenas prácticas, accesibilidad, arquitectura Frontend y UX/UI
+- 🛠️ **Tecnologías**: HTML, CSS, JavaScript, React, TypeScript, Tailwind CSS, Git, Node.js, SQL
+
+<br>
+
+- 🔗 **Conéctame en LinkedIn**: [Daniel Sánchez](https://www.linkedin.com/in/dani-sanchez-dev/)
 - 📧 **Escríbeme a**: danielsanchezvazquez5@gmail.com
-
 
 <h3 align="left">Lenguajes y herramientas:</h3>
 <p align="left">
