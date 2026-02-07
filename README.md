@@ -61,11 +61,5 @@
 
 
 
-## Mis estadísticas de GitHub
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DaniSanchezDev&theme=nightowl&border=50d461&background=2d333a&show_icons=true&locale=en&layout=compact" alt="DaniSanchezDev" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DaniSanchezDev&theme=nightowl&border=50d461&background=2d333a&show_icons=true&locale=en&layout=compact" alt="DaniSanchezDev" /></p>
 
 
